@@ -1,0 +1,19 @@
+{
+  "name": "check-pc-in-lan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20dec/checkPCinLAN.git"
+  },
+  "author": "20dec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20dec/checkPCinLAN/issues"
+  },
+  "homepage": "https://github.com/20dec/checkPCinLAN#readme"
+}
